@@ -1,0 +1,99 @@
+{
+  "cookies": [
+    {
+      "name": "__Host-next-auth.csrf-token",
+      "value": "476fb511e369edc381929324bac16ea04d5dab135d6967c97b2d9330370e02b5%7Cd178080b1edf43a40a6e5e3324d3ac9a693412b5da27022ca51dbe0427c8df6a",
+      "domain": "react-blueprint.mugna.tech",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__Secure-next-auth.callback-url",
+      "value": "https%3A%2F%2Freact-blueprint.mugna.tech",
+      "domain": "react-blueprint.mugna.tech",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "jwt-auth",
+      "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNzQ2MjU0MTkyLCJpYXQiOjE3NDYxNjc3OTIsImp0aSI6IjcwYzkyMzBjMzc4NjRlZDhiYzk4YTk0ZWNjZWUzZjgxIiwidXNlcl9pZCI6NDM5fQ.B9h3LrYXVK-Siq8TmfUUA-NncELDtXk7r3UKQUgcJ-Y",
+      "domain": "django-blueprint.mugna.tech",
+      "path": "/",
+      "expires": 1746254194.68963,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "jwt-refresh-token",
+      "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTc0Njc3MjU5MiwiaWF0IjoxNzQ2MTY3NzkyLCJqdGkiOiI4ZjJmMjdhZjMwZWE0NjBlYjM0OTU4ZjBhYjQ0YjlkZiIsInVzZXJfaWQiOjQzOX0.DTrxXwK-gfHquuUURFjaxwklY9PolVpiDj8rAvRapjs",
+      "domain": "django-blueprint.mugna.tech",
+      "path": "/",
+      "expires": 1746772594.689686,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "csrftoken",
+      "value": "TqaL1cBjTtMWxtvbKVQed84P7IJQrYIU",
+      "domain": ".mugna.tech",
+      "path": "/",
+      "expires": 1777617394.689698,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "sessionid",
+      "value": "lq6fwnhfuclit9dpobuyupx13v0j2c4w",
+      "domain": "django-blueprint.mugna.tech",
+      "path": "/",
+      "expires": 1747377394.689711,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "jwt-auth",
+      "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNzQ2MjU0MTkyLCJpYXQiOjE3NDYxNjc3OTIsImp0aSI6IjcwYzkyMzBjMzc4NjRlZDhiYzk4YTk0ZWNjZWUzZjgxIiwidXNlcl9pZCI6NDM5fQ.B9h3LrYXVK-Siq8TmfUUA-NncELDtXk7r3UKQUgcJ-Y",
+      "domain": "react-blueprint.mugna.tech",
+      "path": "/",
+      "expires": 1746254193.832684,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "jwt-refresh-token",
+      "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTc0Njc3MjU5MiwiaWF0IjoxNzQ2MTY3NzkyLCJqdGkiOiIyZDExOTE2MDQzNjA0NDJiOTNkOTc4N2Q1MjJmNGFiNiIsInVzZXJfaWQiOjQzOX0.f-yMx2gW10jzCW9Tr27uCP_NYTopsc8ToqD8Ee8outE",
+      "domain": "react-blueprint.mugna.tech",
+      "path": "/",
+      "expires": 1746772593.832783,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://react-blueprint.mugna.tech",
+      "localStorage": [
+        {
+          "name": "nextauth.message",
+          "value": "{\"event\":\"session\",\"data\":{\"trigger\":\"getSession\"},\"timestamp\":1746167792}"
+        },
+        {
+          "name": "refresh-token-store",
+          "value": "{\"state\":{\"isLoggedIn\":true,\"auth\":{\"refresh\":\"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTc0Njc3MjU5MiwiaWF0IjoxNzQ2MTY3NzkyLCJqdGkiOiIyZDExOTE2MDQzNjA0NDJiOTNkOTc4N2Q1MjJmNGFiNiIsInVzZXJfaWQiOjQzOX0.f-yMx2gW10jzCW9Tr27uCP_NYTopsc8ToqD8Ee8outE\"}},\"version\":0}"
+        }
+      ]
+    }
+  ]
+}
