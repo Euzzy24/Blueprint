@@ -2,10 +2,7 @@
   "name": "blueprint_test",
   "version": "1.0.0",
   "main": "index.js",
-<<<<<<< HEAD
-=======
-  "type": "module",
->>>>>>> 0f523f7 (maytwo)
+
   "scripts": {},
   "keywords": [],
   "author": "",

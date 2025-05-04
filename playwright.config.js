@@ -32,7 +32,6 @@ export default defineConfig({
   /* Shared settings for all the projects below. See https://playwright.dev/docs/api/class-testoptions. */
   use: {
     // playwright.config.ts
-  headless: false
     baseURL: "https://react-blueprint.mugna.tech",
     storageState: "storageState.json",
     headless: false,
