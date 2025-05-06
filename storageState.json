@@ -2,7 +2,7 @@
   "cookies": [
     {
       "name": "__Host-next-auth.csrf-token",
-      "value": "476fb511e369edc381929324bac16ea04d5dab135d6967c97b2d9330370e02b5%7Cd178080b1edf43a40a6e5e3324d3ac9a693412b5da27022ca51dbe0427c8df6a",
+      "value": "d43d9dbebde27d1e702a064ca67397c5e233cc1d0cfeacfca3cd5a3d1c1b2855%7C83e558908d0c62b3cd27d640f636d97a62fe4309272854ae520b48aa4ec72b07",
       "domain": "react-blueprint.mugna.tech",
       "path": "/",
       "expires": -1,
@@ -22,60 +22,60 @@
     },
     {
       "name": "jwt-auth",
-      "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNzQ2MjU0MTkyLCJpYXQiOjE3NDYxNjc3OTIsImp0aSI6IjcwYzkyMzBjMzc4NjRlZDhiYzk4YTk0ZWNjZWUzZjgxIiwidXNlcl9pZCI6NDM5fQ.B9h3LrYXVK-Siq8TmfUUA-NncELDtXk7r3UKQUgcJ-Y",
+      "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNzQ2NDk2NjUwLCJpYXQiOjE3NDY0MTAyNTAsImp0aSI6IjgyMDc5NDM2OGZiMDQyOGNiOGJlMzU2ZTBiNDQ3NTM4IiwidXNlcl9pZCI6NDM5fQ.Zcm5XuuTTIz8LY5_ZqirVqdvv1kMTGiZH0lbnVZd1No",
       "domain": "django-blueprint.mugna.tech",
       "path": "/",
-      "expires": 1746254194.68963,
+      "expires": 1746496655.569573,
       "httpOnly": true,
       "secure": true,
       "sameSite": "Lax"
     },
     {
       "name": "jwt-refresh-token",
-      "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTc0Njc3MjU5MiwiaWF0IjoxNzQ2MTY3NzkyLCJqdGkiOiI4ZjJmMjdhZjMwZWE0NjBlYjM0OTU4ZjBhYjQ0YjlkZiIsInVzZXJfaWQiOjQzOX0.DTrxXwK-gfHquuUURFjaxwklY9PolVpiDj8rAvRapjs",
+      "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTc0NzAxNTA1MCwiaWF0IjoxNzQ2NDEwMjUwLCJqdGkiOiI0MDI2ZWMzNzRhZmU0MDRhYjQ5MjVlZjUwZDdjODUyOCIsInVzZXJfaWQiOjQzOX0.VgS2WM2w7BqDtfSrah1hHVqJDoKqV-Viq5-WdVu5W0E",
       "domain": "django-blueprint.mugna.tech",
       "path": "/",
-      "expires": 1746772594.689686,
+      "expires": 1747015055.569631,
       "httpOnly": true,
       "secure": true,
       "sameSite": "Lax"
     },
     {
       "name": "csrftoken",
-      "value": "TqaL1cBjTtMWxtvbKVQed84P7IJQrYIU",
+      "value": "vMZPhaBjDTYusmOuqjzFWjsFxrxgNk3P",
       "domain": ".mugna.tech",
       "path": "/",
-      "expires": 1777617394.689698,
+      "expires": 1777859855.569644,
       "httpOnly": false,
       "secure": true,
       "sameSite": "None"
     },
     {
       "name": "sessionid",
-      "value": "lq6fwnhfuclit9dpobuyupx13v0j2c4w",
+      "value": "9ldfbqyxt8q0eryl2797vhqnxlcvl2vv",
       "domain": "django-blueprint.mugna.tech",
       "path": "/",
-      "expires": 1747377394.689711,
+      "expires": 1747619855.569656,
       "httpOnly": true,
       "secure": false,
       "sameSite": "Lax"
     },
     {
       "name": "jwt-auth",
-      "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNzQ2MjU0MTkyLCJpYXQiOjE3NDYxNjc3OTIsImp0aSI6IjcwYzkyMzBjMzc4NjRlZDhiYzk4YTk0ZWNjZWUzZjgxIiwidXNlcl9pZCI6NDM5fQ.B9h3LrYXVK-Siq8TmfUUA-NncELDtXk7r3UKQUgcJ-Y",
+      "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoiYWNjZXNzIiwiZXhwIjoxNzQ2NDk2NjUwLCJpYXQiOjE3NDY0MTAyNTAsImp0aSI6IjgyMDc5NDM2OGZiMDQyOGNiOGJlMzU2ZTBiNDQ3NTM4IiwidXNlcl9pZCI6NDM5fQ.Zcm5XuuTTIz8LY5_ZqirVqdvv1kMTGiZH0lbnVZd1No",
       "domain": "react-blueprint.mugna.tech",
       "path": "/",
-      "expires": 1746254193.832684,
+      "expires": 1746496655.710891,
       "httpOnly": true,
       "secure": true,
       "sameSite": "Lax"
     },
     {
       "name": "jwt-refresh-token",
-      "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTc0Njc3MjU5MiwiaWF0IjoxNzQ2MTY3NzkyLCJqdGkiOiIyZDExOTE2MDQzNjA0NDJiOTNkOTc4N2Q1MjJmNGFiNiIsInVzZXJfaWQiOjQzOX0.f-yMx2gW10jzCW9Tr27uCP_NYTopsc8ToqD8Ee8outE",
+      "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTc0NzAxNTA1MCwiaWF0IjoxNzQ2NDEwMjUwLCJqdGkiOiIwNmQzOWQwY2M1ZDE0NjM1YjkyNTBiM2U3MTU4MDE4NiIsInVzZXJfaWQiOjQzOX0.CxkBJco8UD-bpSfe6APG1q9MC3VNgFQ1eLtW_FzGsUM",
       "domain": "react-blueprint.mugna.tech",
       "path": "/",
-      "expires": 1746772593.832783,
+      "expires": 1747015055.710973,
       "httpOnly": true,
       "secure": true,
       "sameSite": "Lax"
@@ -87,11 +87,11 @@
       "localStorage": [
         {
           "name": "nextauth.message",
-          "value": "{\"event\":\"session\",\"data\":{\"trigger\":\"getSession\"},\"timestamp\":1746167792}"
+          "value": "{\"event\":\"session\",\"data\":{\"trigger\":\"getSession\"},\"timestamp\":1746410253}"
         },
         {
           "name": "refresh-token-store",
-          "value": "{\"state\":{\"isLoggedIn\":true,\"auth\":{\"refresh\":\"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTc0Njc3MjU5MiwiaWF0IjoxNzQ2MTY3NzkyLCJqdGkiOiIyZDExOTE2MDQzNjA0NDJiOTNkOTc4N2Q1MjJmNGFiNiIsInVzZXJfaWQiOjQzOX0.f-yMx2gW10jzCW9Tr27uCP_NYTopsc8ToqD8Ee8outE\"}},\"version\":0}"
+          "value": "{\"state\":{\"isLoggedIn\":true,\"auth\":{\"refresh\":\"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTc0NzAxNTA1MCwiaWF0IjoxNzQ2NDEwMjUwLCJqdGkiOiIwNmQzOWQwY2M1ZDE0NjM1YjkyNTBiM2U3MTU4MDE4NiIsInVzZXJfaWQiOjQzOX0.CxkBJco8UD-bpSfe6APG1q9MC3VNgFQ1eLtW_FzGsUM\"}},\"version\":0}"
         }
       ]
     }
